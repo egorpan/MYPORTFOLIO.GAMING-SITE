@@ -4,17 +4,7 @@
   font-weight: 500;
 }
 
-@font-face {
-  font-family: 'Myriadpro';
-  src: url("../fonts/myriad/Myriadpro-semibold.otf");
-  font-weight: 400;
-}
 
-@font-face {
-  font-family: 'Myriadpro';
-  src: url("../fonts/myriad/Myriadpro-bold.otf");
-  font-weight: 600;
-}
 
 * {
   margin: 0;
